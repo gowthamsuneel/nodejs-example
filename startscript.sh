@@ -1,4 +1,4 @@
 #!/bin/sh
 
- cd /root 
+ cd /root/github-jenkins 
 pwd
