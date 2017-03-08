@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gowthamsuneel/nodejs-example/issues"
   },
-  "homepage": "https://github.com/gowthamsuneel/nodejs-example#readme"
+  "homepage": "https://github.com/gowthamsuneel/nodejs-example#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
