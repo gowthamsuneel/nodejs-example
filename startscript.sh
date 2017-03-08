@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cd 
+ cd /root 
 pwd
