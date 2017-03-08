@@ -1,4 +1,5 @@
 #!/bin/sh
 
- cd /root/github-jenkins/ 
+  path='/root/github-jenkins/'
+  cd $path 
 pwd
