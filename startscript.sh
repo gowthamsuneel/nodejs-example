@@ -1,5 +1,5 @@
 #!/bin/sh
 
-  path='/root/github-jenkins/'
+  path='/home/only4rent/github-jenkins'
   cd $path 
 pwd
